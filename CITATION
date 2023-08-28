@@ -3,6 +3,7 @@ title: HTRomance
 message: >-
   If you use this dataset, please cite it using the metadata
   from this file.
+type: dataset
 authors:
   - given-names: Thibault
     family-names: Clérice
