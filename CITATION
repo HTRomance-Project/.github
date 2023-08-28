@@ -1,0 +1,88 @@
+cff-version: 1.2.0
+title: HTRomance
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+authors:
+  - given-names: Thibault
+    family-names: Clérice
+    email: thibault.clerice@inria.fr
+    affiliation: 'ALMAnaCH, INRIA'
+    orcid: 'https://orcid.org/0000-0003-1852-9204'
+  - given-names: Alix
+    family-names: Chagué
+    email: alix.chague@inria.fr
+    affiliation: 'ALMAnaCH, INRIA; Université de Montréal'
+    orcid: 'https://orcid.org/0000-0002-0136-4434'
+  - given-names: Matthias
+    family-names: Gille-Levenson
+    orcid: 'https://orcid.org/0000-0001-9488-5986'
+    affiliation: CIHAM
+  - given-names: Olivier
+    family-names: Brisville-Fertin
+    orcid: 'https://orcid.org/0000-0001-7809-3890'
+    affiliation: CIHAM
+  - given-names: Ariane
+    family-names: Pinche
+    orcid: 'https://orcid.org/0000-0002-7843-5050'
+    affiliation: CNRS
+  - given-names: Jean-Baptiste
+    family-names: Camps
+    orcid: 'https://orcid.org/0000-0003-0385-7037'
+    affiliation: Ecole nationale des chartes
+  - given-names: Franz
+    family-names: Fischer
+    orcid: 'https://orcid.org/0000-0002-2162-5531'
+    affiliation: Venice Centre for Digital and Public Humanities
+  - given-names: Federico
+    family-names: Boschetti
+    orcid: 'https://orcid.org/0000-0002-7810-7735'
+    affiliation: Istituto di Linguistica Computazionale
+  - given-names: 'Elisa '
+    family-names: Guadagnini
+    affiliation: Istituto di Linguistica Computazionale
+    orcid: 'https://orcid.org/0000-0002-6249-5550'
+  - given-names: Gilles
+    family-names: Guilhem Couffignal
+    affiliation: Sorbonne Université
+  - given-names: Olivier
+    family-names: Canteaut
+    orcid: 'https://orcid.org/0000-0003-4586-1931'
+    affiliation: Ecole nationale des chartes
+  - given-names: Laurent
+    family-names: Romary
+    affiliation: INRIA
+    orcid: 'https://orcid.org/0000-0002-0756-0508'
+  - given-names: Marianne
+    family-names: Reboul
+    orcid: 'https://orcid.org/0000-0003-2939-056X'
+    affiliation: ENS de Lyon
+  - given-names: Nicolas
+    family-names: Perreaux
+    affiliation: Université Paris 1 Panthéon-Sorbonne
+    orcid: 'https://orcid.org/0000-0002-0103-817X'
+  - given-names: Thierry
+    family-names: Poibeau
+    affiliation: CNRS
+    orcid: 'https://orcid.org/0000-0003-3669-4051'
+  - given-names: Marc
+    family-names: Smith
+    affiliation: Ecole nationale des chartes
+url: 'https://htromance-project.github.io/'
+repository: 'https://github.com/HTRomance-Project'
+abstract: >-
+  The HTRomance project is anchored to the field of
+  handwriting recognition (HTR). In particular, it proposes
+  to evaluate and improve the capabilities of this
+  technology when applied to literary manuscripts and public
+  and private archives, in Latin and Romance languages, from
+  the 11th to the 19th century, kept at the French National
+  Library (BnF).
+keywords:
+  - HTR
+  - ground truth
+  - romance languages
+  - HTR-United
+  - manuscripts
+  - medieval
+  - modern
